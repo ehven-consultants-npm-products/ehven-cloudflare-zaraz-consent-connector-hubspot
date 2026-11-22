@@ -36,3 +36,5 @@ diagnostics endpoint. Native ingestion, reporting, association and withdrawal
 need acceptance in the intended account. No support for automatic form scraping,
 advertising, chat, account enrichment configuration or general HubSpot API control
 is implied. Core is a peer dependency; there are no other runtime dependencies.
+
+Support continued development through [Ehven Consultants](https://ehven.com/contact/).
