@@ -32,7 +32,7 @@
     "url": "git+https://github.com/ehven-consultants-npm-products/ehven-cloudflare-zaraz-consent-connector-hubspot.git"
   },
   "peerDependencies": {
-    "@ehven/cloudflare-zaraz-consent-controller-core": ">=0.1.0 <1"
+    "@ehven/cloudflare-zaraz-consent-controller-core": "^0.1.0"
   },
   "description": "Native HubSpot recipes and optional consent-gated visitor association for the Zaraz consent controller.",
   "author": "Gilad Ehven",

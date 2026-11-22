@@ -38,3 +38,13 @@ advertising, chat, account enrichment configuration or general HubSpot API contr
 is implied. Core is a peer dependency; there are no other runtime dependencies.
 
 Support continued development through [Ehven Consultants](https://ehven.com/contact/).
+
+After publication, install into the host project:
+
+```sh
+npm install @ehven/cloudflare-zaraz-consent-connector-hubspot @ehven/cloudflare-zaraz-consent-controller-core
+```
+
+Requires Node.js 24+ for server-side recipe generation.
+Report reproducible issues through the repository issue tracker. Keep cookie values,
+credentials, identities and private form contents out of reports. Support is best effort.
