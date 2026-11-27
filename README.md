@@ -1,7 +1,6 @@
 # HubSpot consent connector
 
-Development candidate for `@ehven/cloudflare-zaraz-consent-connector-hubspot`.
-Works with the separate Zaraz consent controller core. Supplies a native HubSpot
+This connector works with the separate Zaraz consent controller core. It supplies a native HubSpot
 tool recipe, exact declared cookie cleanup and optional server-side visitor
 association. Installing it makes no requests or submissions.
 
@@ -39,7 +38,7 @@ is implied. Core is a peer dependency; there are no other runtime dependencies.
 
 Support continued development through [Ehven Consultants](https://ehven.com/contact/).
 
-After publication, install into the host project:
+Install the package in the host project:
 
 ```sh
 npm install @ehven/cloudflare-zaraz-consent-connector-hubspot @ehven/cloudflare-zaraz-consent-controller-core
